@@ -8,5 +8,7 @@
 
 - [Chrome浏览器插件](https://github.com/We5ter/How-To-Use-macOS/blob/master/chrome插件.md)
 
+- [使用Fishshell](https://github.com/We5ter/How-To-Use-macOS/blob/master/使用fishshell.md)
+
 
 &copy;Wester 2016
