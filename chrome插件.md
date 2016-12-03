@@ -1,4 +1,6 @@
-###chrome插件推荐
+#chrome插件推荐
+<hr>
+ ##普通工具
  - Extensions Manager (aka Switcher)(插件快捷开关)
  - 1Password Plugin
  - Adblock Plus(经典广告过滤ABP)
@@ -13,8 +15,8 @@
  - 惠惠购物助手
  - 新浪微博图床
  - Evernote Web Clipper
- 
- #####安全工具
+ <hr>
+ ##安全工具
  - XSS Console(via.0x_Jin)
  - XssSniper(via.0kee team)
  - Shodan(著名网络空间搜索引擎插件)
