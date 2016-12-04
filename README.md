@@ -11,4 +11,4 @@
 - [使用Fishshell](https://github.com/We5ter/How-To-Use-macOS/blob/master/使用fishshell.md)
 
 
-&copy;Wester 2016
+&copy;Wester 2016  未经允许，禁止转载
