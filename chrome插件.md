@@ -8,7 +8,6 @@
  - Awesome Screenshot: Screen capture, Annotate(长截图，整个网页）
  - Ghostery (反跟踪)
  - Pickpocket(pocket插件，比官方的好用)
- - Wappalyzer（web指纹识别)
  - 微博急简 WC
  - 惠惠购物助手
  - 新浪微博图床
