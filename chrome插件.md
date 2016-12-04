@@ -14,3 +14,8 @@
  - Evernote Web Clipper
  - office online
  - chrome应用商店 google系列产品
+ - Context Menu Serach
+ - feedly
+ - Notifier for GitHub
+ - Tampermonkey
+ - Chrome Dev Editor (developer preview)
