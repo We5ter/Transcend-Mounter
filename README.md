@@ -1,6 +1,6 @@
 #指引
 
-- [创见扩展卡挂载相关](https://github.com/We5terHow-To-Use-macOS/blob/master/创见扩展卡相关.md)
+- [创见扩展卡挂载相关](https://github.com/We5ter/How-To-Use-macOS/blob/master/创见扩展卡相关.md)
    
 - [macOS软件推荐](https://github.com/We5ter/How-To-Use-macOS/blob/master/mac软件推荐.md)
    
