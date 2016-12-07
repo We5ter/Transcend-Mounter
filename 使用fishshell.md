@@ -29,7 +29,3 @@ https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
 omf theme  #列举全部主题
 omf install xxx
 </code></pre>
-
-
-
-* 更多请参阅<a href="https://github.com/We5ter/Fishshell-Docs" target="_blank">fishshell简明中文文档</a>（挖个坑）
