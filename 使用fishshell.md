@@ -29,3 +29,6 @@ https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
 omf theme  #列举全部主题
 omf install xxx
 </code></pre>
+
+* fishshell function
+https://codeyarns.com/2014/02/27/how-to-create-alias-in-fish/
