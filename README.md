@@ -8,7 +8,7 @@
 
 - [使用Fishshell](https://github.com/We5ter/How-To-Use-macOS/blob/master/使用fishshell.md)
 
-- [在线网站](https://github.com/We5ter/How-To-Use-macOS/blob/master/在线网站.md)
+- [日常使用站点](https://github.com/We5ter/How-To-Use-macOS/blob/master/日常使用站点.md)
 
 
 &copy;Wester 2016  未经允许，禁止转载
