@@ -1,3 +1,10 @@
+###zsh
+http://macshuo.com/?p=676
+
+<hr>
+
+###fishshell
+
 <a href="https://fishshell.com" target="_blank">fishshell</a>是一个Unix shell。fish是friendly interactive shell的缩写。fish会根据你的历史输入和补完来提供命令建议，就像Netscape Navigator 4.0!
 
 * 安装见官网安装FAQ，macOS可直接使用homebrew、macports安装
