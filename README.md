@@ -6,7 +6,7 @@
    
 - [Chrome浏览器插件](https://github.com/We5ter/How-To-Use-macOS/blob/master/chrome插件.md)
 
-- [使用Fishshell](https://github.com/We5ter/How-To-Use-macOS/blob/master/使用fishshell.md)
+- [终端shell选择](https://github.com/We5ter/How-To-Use-macOS/blob/master/终端shell选择.md)
 
 
 突破百度云限速 参考知乎https://www.zhihu.com/question/28333225，
