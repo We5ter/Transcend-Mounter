@@ -51,7 +51,6 @@ sudo chmod +x /etc/rc.sleep /etc/rc.wakeup
 分别写入：
 <pre><code>
 # .sleep
-# author:zephyru5(http://lightrains.org)
 #!/bin/sh
 osascript -e 'tell application "Finder" to eject "你的扩展卡名"'
 osascript -e 'tell application "Finder" to delay 10'
@@ -59,7 +58,6 @@ osascript -e 'tell application "Finder" to delay 10'
 
 <pre><code>
 #.wakeup
-#author: zephyru5(http://lightrains.org)
 #!/bin/sh
 /usr/sbin/diskutil list | grep -e ' \+[0-9]\+: \+[^ ]\+ [^ ]\+' | sed 's/.*\(disk[0-9].*\)/\1/' | xargs -I{} /usr/sbin/diskutil mount {}
 </code></pre>
